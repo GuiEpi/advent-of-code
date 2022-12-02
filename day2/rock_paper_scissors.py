@@ -47,7 +47,6 @@ with open("input.txt", "r") as f:
         line = line.rstrip()
         opponent, me = line.split()
 
-        #lose
         if me == "X":
             if opponent == "A":
                 score += 3
