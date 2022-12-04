@@ -52,7 +52,7 @@ priorities = {
     "Y":51,
     "Z":52
 }
-#Part. 1
+# Part. 1
 sum = 0
 
 with open("input.txt", "r") as f:
@@ -73,7 +73,7 @@ with open("input.txt", "r") as f:
         sum += priorities[common]
 print(sum)
 
-#Part. 2
+# Part. 2
 sum = 0
 counter = 0
 d1 = {}

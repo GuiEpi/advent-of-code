@@ -25,7 +25,3 @@ with open("input.txt", "r") as f:
         elif int(elf2_section1) <= int(elf1_section1) and int(elf2_section2) >= int(elf1_section1):
             overlaps += 1
 print(overlaps)
-
-
-
-
