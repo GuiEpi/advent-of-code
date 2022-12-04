@@ -4,7 +4,7 @@
 
 ## Year 2022
 
-### [Day 1 ✔️](https://github.com/GuiEpi/advent-of-code/tree/main/day1)
-### [Day 2 ✔️](https://github.com/GuiEpi/advent-of-code/tree/main/day2)
-### [Day 3 ✔️](https://github.com/GuiEpi/advent-of-code/tree/main/day3)
-### [Day 4 ✔️](https://github.com/GuiEpi/advent-of-code/tree/main/day4)
+- [x] [Day 1](https://github.com/GuiEpi/advent-of-code/tree/main/day1)
+- [x] [Day 2](https://github.com/GuiEpi/advent-of-code/tree/main/day2)
+- [x] [Day 3](https://github.com/GuiEpi/advent-of-code/tree/main/day3)
+- [x] [Day 4](https://github.com/GuiEpi/advent-of-code/tree/main/day4)
