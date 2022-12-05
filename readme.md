@@ -8,7 +8,7 @@
 - [x] [Day 2: Rock Paper Scissors](https://github.com/GuiEpi/advent-of-code/tree/main/day2)
 - [x] [Day 3: Rucksack Reorganization](https://github.com/GuiEpi/advent-of-code/tree/main/day3)
 - [x] [Day 4: Camp Cleanup](https://github.com/GuiEpi/advent-of-code/tree/main/day4)
-- [ ] [Day 5](https://github.com/GuiEpi/advent-of-code/tree/main)
+- [x] [Day 5: Supply Stacks](https://github.com/GuiEpi/advent-of-code/tree/main/day5)
 - [ ] [Day 6](https://github.com/GuiEpi/advent-of-code/tree/main)
 - [ ] [Day 7](https://github.com/GuiEpi/advent-of-code/tree/main)
 - [ ] [Day 8](https://github.com/GuiEpi/advent-of-code/tree/main)
