@@ -37,8 +37,8 @@ with open(input, "r") as f:
                 stacks[to].append(crate)
 
 result_1 = ''
-for _ in range(nb_stacks):
-    result_1 += str(stacks[_][-1])
+for i in range(nb_stacks):
+    result_1 += str(stacks[i][-1])
 print(result_1)
 
 # Part. 2
@@ -59,6 +59,6 @@ with open(input, "r") as f:
             stacks[to] += crates
 
 result_2 = ''
-for _ in range(nb_stacks):
-    result_2 += str(stacks[_][-1])
+for i in range(nb_stacks):
+    result_2 += str(stacks[i][-1])
 print(result_2)
