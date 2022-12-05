@@ -1,9 +1,9 @@
-'''Part. 1
+"""Part. 1
 A, X = Rock; score += 1
 B, Y = Paper; score += 2
 C, Z = Scissors; score += 3
 lose = 0, draw = 3, win = 6
-'''
+"""
 score = 0
 
 with open("input.txt", "r") as f:
@@ -25,7 +25,7 @@ with open("input.txt", "r") as f:
                 score += 3
             score += 2
 
-        if me =="Z":
+        if me == "Z":
             if opponent == "B":
                 score += 6
             if opponent == "C":
@@ -34,12 +34,12 @@ with open("input.txt", "r") as f:
 
 print(score)
 
-'''Part. 2
+"""Part. 2
 A = Rock; score += 1
 B = Paper; score += 2
 C = Scissors; score += 3
 lose = X = 0; draw = Y = 3; win = Z = 6
-'''
+"""
 score = 0
 
 with open("input.txt", "r") as f:
@@ -65,7 +65,7 @@ with open("input.txt", "r") as f:
                 score += 3
             score += 3
 
-        if me =="Z":
+        if me == "Z":
             if opponent == "A":
                 score += 2
             if opponent == "B":

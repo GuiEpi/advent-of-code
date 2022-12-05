@@ -2,9 +2,9 @@
 total_calories = []
 count = 0
 
-with open('input.txt', 'r') as f:
+with open("input.txt", "r") as f:
     for line in f:
-        if line != '\n':
+        if line != "\n":
             count += int(line)
         total_calories.append(count)
         count = 0
